@@ -10,17 +10,18 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gargajit/i_am_bored"
   },
   "bugs": "",
   "keywords": [],
-  "author": "",
+  "author": "Ajit Garg",
   "contributors": [],
   "scripts": {
-    "dev": "",
-    "test": ""
+    "build": "babel src -d lib",
+    "test": "jest",
+    "start": "node index.js"
   },
-  "description": "",
+  "description": "Server to Server API call using Axiom",
   "dependencies": {
     "axios": "^1.4.0",
     "body-parser": "^1.20.2",
