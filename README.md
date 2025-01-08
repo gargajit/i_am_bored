@@ -26,3 +26,7 @@ API call is made using **`axios`** and the response is then sent as data to the 
 - **Specific Type and Participants** (eg: type: social, participants: 3)
   
 ![image](https://github.com/user-attachments/assets/3859678d-be76-4f1a-b5e5-4683ab79a3c1)
+
+- **Error Handling** (When there is no data for selected filters)
+
+![image](https://github.com/user-attachments/assets/177627fc-cf60-4737-9422-aa58b071d761)
